@@ -1,0 +1,29 @@
+{
+  "name": "Ziro",
+  "description": "Based off of the spicetify theme Ziro in the Purple-Dark option. Created and maintained by arithefirst",
+  "authors": [
+    {
+      "name": "arithefirst",
+      "id": "613358761901424652"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMRARY": ["#D8C4F1"],
+    "HEADER_SECONDARY": ["#7D718C"],
+    "INTERACTIVE_NORMAL": ["#D8C4F1"],
+    "INTERACTIVE_HOVER": ["#D8C4F1"],
+    "INTERACTIVE_ACTIVE": ["#D8C4F1"],
+    "INTERACTIVE_MUTED": ["#595063"],
+    "BACKGROUND_PRIMRARY": ["#221F26"],
+    "BACKGROUND_SECONDARY": ["#221F26"],
+    "BACKGROUND_SECONDARY_ALT": ["#221F26"],
+    "BACKGROUND_TERTIARY": ["#35303B"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#221F26"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#3D3745"],
+    "CHANNEL_ICON": ["#7D718C"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#6c757d"],
+    "CHAT_BACKGROUND": ["#D8C4F1"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#0c0c0c"]
+  }
+}
