@@ -25,5 +25,22 @@
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#6c757d"],
     "CHAT_BACKGROUND": ["#D8C4F1"],
     "SPOILER_HIDDEN_BACKGROUND": ["#0c0c0c"]
+  },
+  "rawColors": {
+    "BRAND_300": "#dcddde",
+    "BRAND_500": "#007bff",
+    "BRAND_560": "#6c757d",
+    "RED_400": "#dc3545",
+    "YELLOW_300": "#ffc107",
+    "PRIMARY_100": "#dcddde",
+    "PRIMARY_200": "#dcddde",
+    "PRIMARY_460": "#D8C4F1",
+    "PRIMARY_560": "#D8C4F1",
+    "PRIMARY_600": "#D8C4F1",
+    "PRIMARY_630": "#D8C4F1",
+    "PRIMARY_700": "#D8C4F1",
+    "PRIMARY_800": "#D8C4F1",
+    "BRAND_NEW_500_ALPHA_20": "#007bff33",
+    "PRIMARY_DARK_700_ALPHA_60": "#D8C4F199"
   }
 }
